@@ -1,0 +1,27 @@
+<produtos>
+  <produto>
+    <identificador>123</identificador>
+    <nomeProduto>cafe</nomeProduto>
+    <prezo>1.22</prezo>
+  </produto>
+  <produto>
+    <identificador>456</identificador>
+    <nomeProduto>leche</nomeProduto>
+    <prezo>1.05</prezo>
+  </produto>
+  <produto>
+    <identificador>678</identificador>
+    <nomeProduto>arroz</nomeProduto>
+    <prezo>1.0</prezo>
+  </produto>
+  <produto>
+    <identificador>789</identificador>
+    <nomeProduto>sal</nomeProduto>
+    <prezo>1.25</prezo>
+  </produto>
+  <produto>
+    <identificador>122</identificador>
+    <nomeProduto>azucar</nomeProduto>
+    <prezo>3.2</prezo>
+  </produto>
+</produtos>
